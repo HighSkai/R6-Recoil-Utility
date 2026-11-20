@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.user
+*.aps
+
+# Build output
+bin/
+build/
+x64/
+Debug/
+Release/
+
+# Runtime settings written next to the exe
+R6RecoilUtility.ini
+R6RecoilUtility.ini.tmp
